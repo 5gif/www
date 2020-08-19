@@ -155,7 +155,9 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-color: rgb(50, 3, 3);
+    background-image: url('../img/header2.png');
+    // background-blend-mode: darken;
     text-align: center;
     color: white;
     .header-content {
@@ -174,8 +176,8 @@ header {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
-                color: rgba(white, .7);
+                font-weight: bolder;
+                color: rgba(rgb(255, 255, 255), .7);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
