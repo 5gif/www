@@ -1,6 +1,7 @@
 ---
 layout: article
 title: My First story
+permalink: /story
 ---
 ## Background
  
