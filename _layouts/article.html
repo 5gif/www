@@ -2,7 +2,18 @@
 <html lang="en">
 
 {% include head.html %}
+<style>
+  .carousel .item {
+  height: 300px;
+}
 
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+  </style>
 <body id="page-top">
   {% include nav.html %}
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
