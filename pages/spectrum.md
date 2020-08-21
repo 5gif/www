@@ -4,8 +4,8 @@ title: 5GIF  WG  Spectrum
 permalink: /:basename
 ---
 
-# Spectrum Workgroup
+## Spectrum Workgroup
 
 
 
-# Meeting/Agenda
+## Meeting/Agenda
