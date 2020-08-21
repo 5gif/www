@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+  {% include header.html %}
+
+  <section class="bg-primary no-glutter" id="start">
+    <div class="container">
+      <!-- <div class="row">
+        <div class="col-lg-8 col-lg-offset-2"> -->
+          <h2> {{ page.title }} </h2>
+          <!-- <hr class="light"> -->
+        </br>
+          {{ content }}
+
+<!-- 
+        </div>
+      </div> -->
+    </div>
+  </section>
+
+
+  {% include scripts.html %}
+  {% include contact.html %}
+</body>
+
+</html>
