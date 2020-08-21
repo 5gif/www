@@ -32,8 +32,7 @@ permalink: /:basename
     
     [Download](https://coai.com/sites/default/files/2018-03/1.%20Asbjorn%20Grovlen.pdf)
     
--   ![](https://coai.com/themes/bootstrap/images/Backdrop.jpg =250x)  
-    **Transforming to Digital Service Provider**  by Dr. Ulrich Dropmann, Nokia Bell Labs
+-   **Transforming to Digital Service Provider**  by Dr. Ulrich Dropmann, Nokia Bell Labs
     
     Mar 27, 2018
 
