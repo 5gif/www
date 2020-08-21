@@ -4,6 +4,8 @@ title: Presentations
 permalink: /:basename
 ---
 
+--------
+
 -   **5G: New Adjacent and Vertical Markets**  by Mr. Edward Tiedemann, Qualcomm
     
     Mar 27, 2018 [Download](https://coai.com/sites/default/files/2018-03/S1%20Edward%20Tiedemann.pdf)
@@ -36,11 +38,9 @@ permalink: /:basename
     
     Mar 27, 2018
 
+--------
 
-## Mar 27, 2018  
- 
-
--   Making 5G a Reality in 2019
+## Event :  Making 5G a Reality in 2019
 -   Jul 23, 2018
 -   [**Download**](https://coai.com/sites/default/files/2018-08/PPT-1_Making%205G%20reality%20in%202019.pdf)
 -   5G: Industry Perspective
