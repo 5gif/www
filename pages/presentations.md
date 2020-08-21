@@ -6,9 +6,7 @@ permalink: /:basename
 
 -   **5G: New Adjacent and Vertical Markets**  by Mr. Edward Tiedemann, Qualcomm
     
-    Mar 27, 2018
-    
-    [Download](https://coai.com/sites/default/files/2018-03/S1%20Edward%20Tiedemann.pdf)
+    Mar 27, 2018 [Download](https://coai.com/sites/default/files/2018-03/S1%20Edward%20Tiedemann.pdf)
     
 -   **Future roadmap –5G** by Mr. Ajay Manghat, Vodafone India
     
