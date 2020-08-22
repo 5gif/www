@@ -2,18 +2,16 @@
 layout: pages
 title: 5GIF Article list
 ---
+List of posts !! 
 
 <ul>
-List of posts !! 
-Here is the list of articles  
   {% for post in site.articles %}
     <li>
-Hello </br>
-{{ post.url }}
-      <h2>{{ post.name }}</h2>
-      <h3>{{ post.title }}</h3>
+   <a href= "{{ post.url }}"> 
+ <h3>{{ post.title }}</h3> </a>
+<b> Summary : </b>
       <p>{{ post.summary  }}</p>
     </li>
-  {% endfor %}
-World 
+</hr>
+  {% endfor %} 
 </ul>
