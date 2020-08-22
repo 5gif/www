@@ -13,6 +13,8 @@ github_username:  5gif
 
 collections:
   articles:
+     output: true
+
 
 
 # Build settings
