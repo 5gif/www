@@ -1,6 +1,6 @@
 ---
 layout: article
-title: First article from members
+title: Welcome Article
 summary: First sample article by admin
 ---
 
