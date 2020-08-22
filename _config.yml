@@ -12,8 +12,5 @@ twitter_username: 5gindiaforum
 github_username:  5gif
 permalink: /:basename
 
-collections:
- articles
-
 # Build settings
 markdown: kramdown
