@@ -1,0 +1,14 @@
+---
+layout: pages
+title: 5GIF Articles 
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2>{{ post.name }}</h2>
+      <h3>{{ post.title }}</h3>
+      <p>{{ author.summary  }}</p>
+    </li>
+  {% endfor %}
+</ul>
