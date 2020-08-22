@@ -11,6 +11,9 @@ url: "https://blogs.sendildevar.in/" # the base hostname & protocol for your sit
 twitter_username: 5gindiaforum
 github_username:  5gif
 
+collections:
+  posts:
+
 
 # Build settings
 markdown: kramdown
