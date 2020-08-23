@@ -17,10 +17,10 @@
                 {% else %}
 
                                  <a href="https://github.com/5gif/www/edit/gh-pages/_articles/{{ page.name }}.md">  <i class="fa fa-edit fa-sm"> </i>  </a> </h2>
-              
+                                              For name= {{ :name }} {{ page.name }} {{ page:name }}       {{ page:basename }} {{ :basename }}
+
                   {% endif %}
 
-                                For name= {{ :name }} {{ page.name }} {{ page:name }}       {{ page:basename }} {{ :basename }}
                 <hr class="light">
                   {{ content }}
 
