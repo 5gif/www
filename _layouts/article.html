@@ -12,14 +12,9 @@
 
               
                 <h2 class="section-heading"> {{ page.title }} 
-                  {% if page.editlink %} 
-                   <a href="{{ page.editlink }}">  <i class="fa fa-edit fa-sm"> </i>  </a> </h2>
-                {% else %}
-
-                                 <a href="https://github.com/5gif/www/edit/gh-pages/_articles/{{ page.name }}.md">  <i class="fa fa-edit fa-sm"> </i>  </a> </h2>
-                                              For name= {{ :name }} {{ page.name }} {{ page:name }}       {{ page:basename }} {{ :basename }}
-
-                  {% endif %}
+                  {% if page.name %} 
+                  <a href="https://github.com/5gif/www/edit/gh-pages/_articles/{{ page.name }}">  <i class="fa fa-edit fa-sm"> </i>  </a> 
+</h2>             {% endif %}
 
                 <hr class="light">
                   {{ content }}
