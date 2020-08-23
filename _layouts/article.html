@@ -15,14 +15,13 @@
                   {% if page.editlink %} 
                    <a href="{{ page.editlink }}">  <i class="fa fa-edit fa-sm"> </i>  </a> </h2>
                 {% else %}
-              For {{ name }} {{ page.name }} {{ page }}
+
                                  <a href="https://github.com/5gif/www/edit/gh-pages/_articles/{{ page.name }}.md">  <i class="fa fa-edit fa-sm"> </i>  </a> </h2>
               
                   {% endif %}
 
 
-                  
-              
+                                For name= {{ name }} page.name {{ page.name }}       {{ basename }} {{ page.basename }}
                 <hr class="light">
                   {{ content }}
 
