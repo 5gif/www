@@ -50,4 +50,4 @@ COAI is a market representation partner (MRP) of 3GPP. As 3GPP technology is now
 
 ## COAI engagement with the 5G-ACIA
 
-The 5G-ACIA, another 3GPP MRP is an active player in the industrial automation space. Their membership base includes a number of industrial equipment suppliers and end-users as well as ICT companies; with the automotive, energy, industrial manufacturing and production sectors all represented.
+The 5G-ACIA, another 3GPP MRP is an active player in the industrial automation space. Their membership base includes a number of industrial equipment suppliers and end-users as well as ICT companies; with the automotive, energy, industrial manufacturing and production sectors all represented. COAI has an MoU with the 5G-ACIA in working together developing solutions for industrial IoT and automation, with an emphasis for the Indian region.
