@@ -28,12 +28,13 @@ The 5GIF is one of the independent evaluation groups registered with ITU-R for I
 
 ## Resources
 
-Link to the ITU-R WP5D IMT-2020 submission and evaluation process
-The 5GIF Evaluation Group ( 5gif.github.io )
+- Link to the ITU-R WP5D IMT-2020 submission and evaluation process
+- [The 5GIF Evaluation Group Home Page](http://5gif.github.io)
 
 ## Contact
 
+```
 Vikram Tiwathia
 Telephone: +91 11 2334 9275
-Email :imt2020@5gindiaforum.in
-
+Email: imt2020@5gindiaforum.in
+```
