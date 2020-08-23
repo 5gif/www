@@ -17,12 +17,19 @@ The 5GIF is one of the independent evaluation groups registered with ITU-R for I
 
 ## Participating Members 
 - Amrita University
-- LNMIIT 
-- Airtel, Vodafone, E, I , N, Q, H
+- LNMIIT University
+- Bharti Airtel
+- Vodafone Idea
+- Ericsson India
+- Intel India
+- Nokia India
+- Qualcomm India
+- Huawei India
+- ZTE India
 
 ## Report
 - 5GIF IEG contributions to ITU-R WP5D
-- 5GIF IEG Final report 5GIF IEG Final report
+- 5GIF IEG Final report 5GIF IEG Final report [Link](/files/5GIF Evaluation Report.pdf)
 - 5GIF IEG Interim report to WP5D#33 5GIF Interim evaluation results towards IMT-2020 Candidate (3GPP RIT)
 - 5GIF IEG Interim presentation to WP5D#33 5GIF IEG Interim Report WP5D33
 
