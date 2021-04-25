@@ -5,8 +5,12 @@ permalink: /:basename
 ---
 
 
-
 The 5GIF is one of the independent evaluation groups registered with ITU-R for IMT2020 candidate radio technology evaluation. This group was formed to evaluate the IMT2020 candidates from the perspective of Indian network deployments. This is a group of operators, OEM’s, universities and individual experts participating in a collaborative manner, in the evaluation of candidate IMT2020 technologies of interest. This is a contribution driven activity, with decisions made through a consensus seeking approach.
+
+## Leadership
+
+- Chair : Dr. Sendil Kumar | Ericsson
+
 
 ## Past Meetings
 - Kickoff meeting	Mar 2019
